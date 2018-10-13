@@ -2,4 +2,4 @@
 
 [Book](http://hikage.freeshell.org/books/theCprogrammingLanguage.pdf)
 
-Chapter1 - 
+Chapter1 - A Tutorial Introduction
