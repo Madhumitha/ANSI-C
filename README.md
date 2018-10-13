@@ -2,4 +2,4 @@
 
 [Book](http://hikage.freeshell.org/books/theCprogrammingLanguage.pdf)
 
-### Chapter1 - Starting Oct'13,2018..Hope to complete it :-)
+Chapter1 - 
