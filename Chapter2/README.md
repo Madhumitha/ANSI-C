@@ -15,7 +15,7 @@ The standard headers <limits.h> and <floadt.h> contain symbolic constants for al
 - A character constant is an integer, written as one character within single quotes
 - The value of a character constant is the numeric value of the character in the machine's character set
 
--A *constant expression* is an expression that involves only constants. Such expression may be evaluated during compilation rather than run-time
+- A *constant expression* is an expression that involves only constants. Such expression may be evaluated during compilation rather than run-time
 ```
 #define MAXLINE 1000
 char line[MAXLINE+ 1];
