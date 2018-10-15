@@ -10,4 +10,4 @@ Plan to start the Chapter 1 later
 
 Chapter 2 - Types, Operators, and Expressions 
 
-[Exercise 2-1](../Exercise2-1.c)
+[Exercise 2-1](./Exercise2-1.c)
