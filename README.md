@@ -9,3 +9,5 @@ Chapter1 - A Tutorial Introduction
 Plan to start the Chapter 1 later
 
 Chapter 2 - Types, Operators, and Expressions 
+
+[Exercise 2-1]
