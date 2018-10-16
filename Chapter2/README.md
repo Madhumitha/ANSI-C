@@ -7,8 +7,8 @@
 The standard headers <limits.h> and <floadt.h> contain symbolic constants for all of these sizes, along with other properties of the machine and compiler. 
 
 [Exercise 2-1](./Code)
-  -[Ranges Solved using standard headers](./Code/Ex2-1)
-  -[Ranges Solved using bitwise operator](./Code/Exercise2.1.1.c)
+1. [Ranges Solved using standard headers](./Code/Ex2-1)
+2. [Ranges Solved using bitwise operator](./Code/Exercise2.1.1.c)
 
 2.3 Constants 
 
