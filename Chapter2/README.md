@@ -1,4 +1,4 @@
-##**CHAPTER 2: Operators and Expressions**
+##CHAPTER 2: Operators and Expressions
 
 2.1 Variable names
 
